@@ -1,7 +1,7 @@
 #!/bin/bash
 # This is a basic obfuscation test in bash
 # This method was first implemented in Batch on Windows XP by
-# a writer in the BATCH ZONE zine.
+# a writer in the BATch Zone zine.
 
 o="a"
 w="c"
